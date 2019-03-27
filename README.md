@@ -6,3 +6,5 @@
 #### 使用说明
 
 python download.py
+
+#### 从gitee同步到github
